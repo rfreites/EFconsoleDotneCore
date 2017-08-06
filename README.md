@@ -1,0 +1,2 @@
+# EFconsoleDotneCore
+connection with EF
